@@ -42,10 +42,6 @@ You can do it either way.
 Several ways of looking at the data
 
 ```{r, exploredata}
-dplyr::glimpse(rawdata)
-summary(rawdata)
-head(rawdata)
-skimr::skim(rawdata)
 ```
 
 Looks like we have the following data:
