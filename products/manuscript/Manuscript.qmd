@@ -94,7 +94,7 @@ knitr::kable(resulttable)
 #| label: fig-result
 #| fig-cap: "Height and weight stratified by sex."
 #| echo: FALSE
-knitr::include_graphics(here("results","height_weight_stratified.png"))
+knitr::include_graphics(here("results","scatterplot_weight_and_finger.png"))
 ```
 
 ## Full analysis
